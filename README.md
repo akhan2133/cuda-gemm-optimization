@@ -45,4 +45,4 @@ This project was completed as coursework for CMPT 479 at Simon Fraser University
 
 The source code is maintained in a private repository in accordance with the course's academic integrity policy and is not publicly distributed.
 
-I am happy to discuss the implementation, optimization techniques, and performance findings during technical interviews. Any demonstration of private source code is subject to instructor approval.
+I am happy to discuss the implementation, optimization techniques, and performance findings during technical interviews.
